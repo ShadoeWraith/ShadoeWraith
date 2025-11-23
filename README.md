@@ -5,7 +5,7 @@ I'm just a dev building random crap that no one really cares about, but it's fun
 ---
 
 ## 🛠️ My Development Toolkit
-Here are the primary languages, frameworks, and tools I slam my head at learning
+Here are the primary languages, frameworks, and tools I slam my head with whenever I use
 
 | 💻 Languages | 🚀 Frameworks | 💾 Databases | ⚙️ Tools & CI/CD |
 | :--- | :--- | :--- | :--- |

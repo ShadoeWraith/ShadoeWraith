@@ -19,9 +19,6 @@ Here are the primary languages, frameworks, and tools I enjoy working with:
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180 src="https://github-readme-stats.vercel.app/api?username=ShadoeWraith&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadoeWraith&layout=compact&theme=vision-friendly-dark&hide_border=true" />
     </a>
 </p>
